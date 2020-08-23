@@ -44,5 +44,5 @@ echo "name, size, modification, duration" >> LIST.csv
 #вызываем функцию для директории, в которой находимся, создаем csv файл 
 func "$(pwd)" >> LIST.csv
 
-#делаем вывод красивеньким 
-#sed 's/,/:,/g' LIST.csv | column -t -s: | sed 's/ ,/|/g'
+#форматируем вывод  
+sed 's/,/:,/g' LIST.csv | column -t -s: | sed 's/ ,/|/g'
