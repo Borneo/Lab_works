@@ -57,3 +57,5 @@ source ~/ros_catkin_ws/install_isolated/setup.bash
 
 cd 
 instl_ros
+#запускаем ROS
+roscore
