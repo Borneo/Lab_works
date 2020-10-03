@@ -4,6 +4,9 @@
 Лабораторная работа №2 в папке Lab_2
 ***
 Лабораторная работа №3 в папке Lab_3
-Запуск ROS: $ roscore
-Запуск черепашки: $ rosrun turtlesim turtlesim_node
-Запуск программы: $ bash lab_3.test.sh
+Запуск ROS: 
+>$ roscore
+Запуск черепашки: 
+>$ rosrun turtlesim turtlesim_node
+Запуск программы: 
+>$ bash lab_3.test.sh
