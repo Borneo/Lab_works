@@ -17,4 +17,4 @@
 ---
 Лабораторная работа №4 в папке Lab_4
 ---
->$Для запуска в начале запускаем roscore после в отдельном окне rosrun stage_ros stageros maze_world.world и в еще отдельном окне python maze.py
+>$ Для запуска в начале запускаем roscore после в отдельном окне rosrun stage_ros stageros maze_world.world и в еще отдельном окне python maze.py
