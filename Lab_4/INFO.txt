@@ -1,0 +1,1 @@
+для запуска в начале запускаем roscore после в отдельном окне rosrun stage_ros stageros maze_world.world и в еще отдельном окне python maze.py
